@@ -1,5 +1,7 @@
 # solver
 Implements solvers for linear equations in python.
-The solution methods that I implemented are Conjugate Gradient,
+The solution methods that I implemented include Conjugate Gradient,
 Successive over-relaxation, Jocabi, Gauss Seidel. The solver is
-correct set up to solve a deterization of Laplace's equation.
+correctly set up to solve a deterization of Laplace's equation.
+However, it could be modified without much difficulty to solve
+a different.
